@@ -17,6 +17,18 @@ Given the Apple/Google announcement today (April 10, 2020), the following sequen
 * **Wide Distribution:** Don’t know when the Contract Tracing services will be rolled out to the user community in OS updates (assuming OS changes are needed, beyond just the SDK for developers) and what the statistics for user adoption will be.
 * **Interoperability:** Because of the above issues, interoperability between our implementations and migration between them will have to be supported.
 
+### Mindmap for discussing and proposing issues:
+At the top level of the repo, you’ll find a MindMap, (the CoEpi BLE issues.smmx file, directly editable with the free SimpleMind desktop app and a PDF file for simple viewing, see below).
+If you have knowledge and verified facts to contribute, update a copy directly and send the result to me for updating the repo copy. Or if you’d like to sign up for a task to research or experimentally determine the facts. let me know and I’ll create task in the Github Project for you.
+
+
+Suggestions welcome.
+
+
+
+
+
+
 ### \<to be continued\>
 
 
